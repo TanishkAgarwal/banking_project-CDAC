@@ -1,0 +1,110 @@
+#body{
+   
+}
+#div1{
+    margin: 0px;
+    padding: 0px;
+   
+    width: 740px;
+    height: 800px;
+    margin-left: 470px;
+    margin-top: 10px;
+    
+    border-radius: 0px;
+   
+}
+#p1{
+   
+    margin:0px;
+    color: rgb(9, 5, 5);
+  
+    font-family: serif;
+    text-align: center;
+    font-size: 30px;
+    padding: 10px;
+    
+}
+
+
+
+.img5{
+    border: 1px solid black;
+    width: 170px;
+    height: 187px;
+    margin: 0px;
+    padding: 0px;
+    margin-top: 20px;
+    margin-left: 150px;
+    float: left;
+}
+#a1{
+    border: 1px solid rgb(0, 0, 0);
+    width: 170px;
+    height: 187px;
+    margin: 0px;
+    padding: 0px;
+    margin-top: 20px;
+    margin-left: 20px;
+    float: left;
+}
+#div2{
+    float: left;
+    margin-left: 40px;
+    margin-top: 10px;
+    margin-bottom: 2px;
+}
+#p2{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#label1{
+    font-size: 20px;
+    font-weight: bold;
+    opacity: 0.7;
+}
+#label2{
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 15px;
+}
+h1{
+    margin-left: 10px;
+    margin-bottom: 0px;
+}
+h3{
+    margin-top: 0px;
+    float: left;
+    margin-left: 10px;
+}
+#p5{
+    text-align: center;
+    color: blue;
+    font-weight: bold;
+    height: 5px;
+}
+    
+#p6{
+    background-color: #69246c;
+    color: aliceblue;
+}
+
+
+#h5{
+    text-align: center;
+    background-color: rgb(77, 77, 205);
+    color: white;
+    width: 740px;
+    margin-left: 470px;
+}
+
+#table, .td5 {
+    border: 2px solid;
+    margin-top: 20px;
+  }
+  #table{
+      width: 100%;
+  }
+  .td5{
+      width:20%;
+      font-weight: bold;
+  }

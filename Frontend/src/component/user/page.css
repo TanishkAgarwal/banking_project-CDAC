@@ -1,0 +1,27 @@
+
+	#phase1 {
+		background-color: #77dd77
+	}
+	
+	#phase2 {
+		background-color:cadetblue
+	}
+    .col {
+      background-color: lavender;
+      border: 1px solid gray;
+    }
+         hr{
+	    	background: white;	
+	    	}
+		.DL{
+			
+			margin-top: 20px;
+			padding: 20px;
+			box-shadow: 0px 0px 10px 3px grey;
+		}
+		.LL{
+			
+			margin-top: 20px;
+			padding: 20px;
+			box-shadow: 0px 0px 10px 3px grey;
+		}

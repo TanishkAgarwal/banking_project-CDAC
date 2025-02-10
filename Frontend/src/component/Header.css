@@ -1,0 +1,14 @@
+.test {
+    text-align: center;
+    color: rgb(255, 255, 255);
+   text-align: right;
+}
+.header{
+    background-color: aqua;
+}
+
+@media only screen and (max-width:600px) {
+    body {
+        background-color: lightblue
+    }
+}
